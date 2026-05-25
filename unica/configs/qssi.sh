@@ -1,4 +1,9 @@
-# Galaxy S23 (Snapdragon) (One UI 8.0)
+# Copyright (c) 2025 Salvo Giangreco
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# UN1CA configuration file for Qualcomm devices (essi)
+
+# Galaxy S23 (Snapdragon) (One UI 8.5)
 SOURCE_FIRMWARE="SM-S911B/EUX/352404911234563"
 SOURCE_EXTRA_FIRMWARES=()
 SOURCE_PLATFORM_SDK_VERSION=36
@@ -32,7 +37,7 @@ SOURCE_LCD_CONFIG_SEAMLESS_BRT="90,95"
 SOURCE_LCD_CONFIG_SEAMLESS_LUX="200,1500"
 SOURCE_LCD_SUPPORT_MDNIE_HW=true
 SOURCE_SECURITY_CONFIG_ESE_CHIP_VENDOR="NXP"
-SOURCE_SECURITY_CONFIG_ESE_COS_NAME="JCOP6.5U"                     
+SOURCE_SECURITY_CONFIG_ESE_COS_NAME="JCOP6.3U"                     
 SOURCE_RIL_FEATURES="vzwcdmaless lracdmaless uscacgcdmaless xaacdmaless onebinary satellite_carrier" 
 SOURCE_RIL_SIM_CONFIG_MULTISIM_TRAYCOUNT="1"
 SOURCE_RIL_SUPPORT_WATERPROOF_SIM_TRAY_MSG=true
