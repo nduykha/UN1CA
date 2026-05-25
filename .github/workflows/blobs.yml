@@ -56,6 +56,12 @@ jobs:
           - module: "Galaxy S21 FE 5G (Exynos) (r9sxxx)"
             device: "r9sxxx"
             firmware: "SM-G990E/THL/355798871234563"
+          - module: "Galaxy S23 (Snapdragon) (dm1qxxx)"
+            device: "dm1qxxx"
+            firmware: "SM-S911B/EUX/352404911234563"
+          - module: "Samsung Galaxy S23 FE 5G (Exynos) (r11sxxx)"
+            device: "r11sxxx"
+            firmware: "SM-S711B/EUX/358615311481702"
 
     steps:
       - name: Checkout repo
