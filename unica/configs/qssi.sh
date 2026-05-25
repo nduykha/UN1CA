@@ -1,7 +1,7 @@
 # Copyright (c) 2025 Salvo Giangreco
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-# UN1CA configuration file for Qualcomm devices (essi)
+# UN1CA configuration file for Snapdragon devices (qssi)
 
 # Galaxy S23 (Snapdragon) (One UI 8.5)
 SOURCE_FIRMWARE="SM-S911B/EUX/352404911234563"
